@@ -1,0 +1,65 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Nanum Myeongjo', serif;
+    color: #333333;
+    font-size: 15px;
+    padding-bottom: 2px;
+}
+main{
+    background-color: #eeeeee;
+    border-radius: 5px;  
+}
+.div-holding-title{
+    text-align: center;
+}
+.title{
+    font-size: 30px;
+    padding-top: 35px;
+    font-family: 'Fira Sans', sans-serif;
+}
+.image-text-holder{
+    margin: auto;
+    width: 98.5%;
+    text-align: center;
+}
+.image-holder{
+    background-color: #ffffff
+}
+.the-big-picture{
+    width:75%;
+}
+.text-under-picture{
+    padding-bottom: 20px;
+    margin-top: 10px;
+}
+.year-list{
+    max-width: 550px;
+    margin :auto;
+}
+li{
+    padding-bottom: 10px;
+    word-spacing: 3px;
+}
+.time-line{
+    padding-left: 30px;
+    padding-top: 25px;
+    text-align: left;
+    font-size: 22px;
+    font-weight: bold;
+}
+.statement{
+    
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.wiki-entry{
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+.bottom-text{
+    padding-bottom: 35px;
+}
+
+
